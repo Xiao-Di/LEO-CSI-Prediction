@@ -1,0 +1,9 @@
+# 只写你项目用到的核心包，其他自动装
+torch
+torchvision
+numpy
+pandas
+matplotlib
+pillow
+scipy
+sgp4
